@@ -57,7 +57,6 @@ void vigenereFile(const looma_strh inputFileName, const looma_strh outputFileNam
     fclose(outputFile);
 }
 
-// In-memory Vigenère cipher (returns output string)
 looma_strh vigenereMem(const looma_strh inputFileName, const looma_strh key, looma_inth encode) {
     FILE* file = fopen(inputFileName, "r");
     if (!file) {
