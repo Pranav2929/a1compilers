@@ -10,7 +10,7 @@
 #include "Step1Coder.h"
 #endif
 
-// Helper: Vigenère transformation for a single character
+// Helper: Vigenère transformation for a single character.
 char vigenereChar(char input, char keyChar, int encode) {
     if (input < ASCII_START || input > ASCII_END) return input;
     int offset = (keyChar - ASCII_START) % ASCII_RANGE;

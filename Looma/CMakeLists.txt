@@ -1,5 +1,4 @@
-﻿#
-# CMakeList.txt : CMake project for Compilers, include source and define project specific logic here.
+﻿# CMakeList.txt : CMake project for Compilers, include source and define project specific logic here.
 #
 #
 # ECHO "=---------------------------------------="
