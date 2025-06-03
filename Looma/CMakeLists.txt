@@ -20,7 +20,7 @@
 # ECHO "    @@                             @@    "
 # ECHO "    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    "
 # ECHO "                                         "
-# ECHO "[COMPILER SCRIPT .......................]"
+# ECHO "[COMPILER SCRIPT ......................]"
 # ECHO "                                         "
                              
 

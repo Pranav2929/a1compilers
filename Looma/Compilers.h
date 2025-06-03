@@ -4,7 +4,7 @@
 * Code version: Summer, 2025
 * Author: Pranav, Li
 * Professors: Paulo Sousa
-**********************************************************
+*********************************************************
 #
 # ECHO "=---------------------------------------="
 # ECHO "|  COMPILERS - ALGONQUIN COLLEGE (S25)  |"
